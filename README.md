@@ -1,7 +1,8 @@
-# Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
-## Achieved a BS in Computer Science and Engineering degree
+### Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
+<b> Achieved a BS in Computer Science and Engineering degree </b>
 
 <br>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/majharul_nayem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmajhar-nayem&screen_name=majharul_nayem)
 
 ## I'm a Son, Developer, and AI enthusiastic!
