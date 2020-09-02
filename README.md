@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 ---
-  <img align="left" alt="majhar-nayem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&show_icons=true&hide_border=true" />
+  <img align="left" alt="majhar-nayem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
