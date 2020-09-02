@@ -36,6 +36,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="DigitalOcean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" />
+<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
+<img align="left" alt="Trello" width="26px" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" />
+<img align="left" alt="Slack" width="26px" src="https://www.sketchappsources.com/resources/source-image/new-slack-logo-nicolas-ciotti.jpg" />
 
 <br />
 <br />
