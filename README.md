@@ -1,11 +1,12 @@
-## Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
-### I am a BS in Computer Science and Engineering graduate
+# Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
+## I am a BS in Computer Science and Engineering graduate
 
+<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/majharul_nayem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmajhar-nayem&screen_name=majharul_nayem)
 
 ## I'm a Son, Developer, and AI enthusiastic!
 
-- 🔭 I’m currently working on a [eCommerce Website](htttps://)!
+- 🔭 I’m currently working on a [eCommerce Website](https://au2d.com)
 - 🌱 I’m currently learning VueJS.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Getting a job and increase working on freelancing projects
