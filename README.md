@@ -56,7 +56,11 @@
 </details>
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majhar-nayem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ <summary>:zap: Top Languages</summary>
+
+<img align="left" alt="majhar-nayem's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majhar-nayem&layout=compact" />
+
 </details>
 
 <!-- [website]: https://codeSTACKr.com -->
