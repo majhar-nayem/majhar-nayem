@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on a [eCommerce Website](https://au2d.com)
 - 🌱 I’m currently learning VueJS.
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Getting a job and increase working on freelancing projects
 - ⚡ Fun fact: I love coffee, Kacchi Briyani and sleeping.
 
@@ -46,12 +45,12 @@
 
 ---
 
-<details>
+<!-- <!-- <details> -->
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-</details>
+<!-- </details> --> 
 
 ### Github stats:
 
