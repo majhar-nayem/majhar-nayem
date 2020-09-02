@@ -55,6 +55,10 @@
 
 </details>
 
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majhar-nayem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/majharul_nayem
 [facebook]: https://facebook.com/majharul.nayem
