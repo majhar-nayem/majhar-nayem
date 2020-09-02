@@ -44,6 +44,14 @@
 <br />
 <br />
 
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Github stats:
 
   <img align="left" alt="majhar-nayem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&&show_icons=true&hide_border=true&count_private=true?theme=vue&show_stars=true" />
