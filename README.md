@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a [eCommerce Website](https://au2d.com)
 - 🌱 I’m currently learning VueJS.
 - 🥅 2020 Goals: Getting a job and increase working on freelancing projects
-- ⚡ Fun fact: I love coffee, Kacchi Briyani and sleeping.
+- ⚡ Fun fact: I love coffee and Kacchi Briyani.
 
 ### Connect with me:
 
