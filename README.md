@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as an Backend Developer PHP(Laravel).
 - 🌱 I’m currently learning VueJS.
-- 🥅 2020 Goals: Getting a job, learn more about ML Alogorithm and Python ML tools and increase working on freelancing projects
+- 🥅 2021 Goals: Learn more about ML Alogorithm and Python ML tools and use them in real life project.
 - ⚡ Fun fact: I love coffee and Kacchi Briyani.
 
 ### Connect with me:
