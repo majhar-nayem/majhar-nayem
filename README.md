@@ -8,7 +8,6 @@
 ## I'm a Son, Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
 
 - 🔭 I’m currently working as a Backend Developer PHP(Laravel).
-- 🥅 2021 Goals: Learn more about ML Alogorithm and Python ML tools and use them in real life project.
 - ⚡ Fun fact: I love coffee and Kacchi Briyani.
 
 ### Connect with me:
