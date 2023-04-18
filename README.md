@@ -7,7 +7,7 @@
 
 ## I'm a Son, Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
 
-- 🔭 I’m currently working as a Backend Developer PHP(Laravel).
+- 🔭 I’m currently working as a Backend Developer(PHP, Nodejs, Laravel, express, MySQL, MongoDB).
 - ⚡ Fun fact: I love coffee and Kacchi Briyani.
 
 ### Connect with me:
