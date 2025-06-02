@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/majharul_nayem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmajhar-nayem&screen_name=majharul_nayem)
 
-## I'm a Son, Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
+## I'm a Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
 
 - 🔭 I’m currently working as a Backend Developer(PHP, Nodejs, Laravel, express, MySQL, MongoDB).
 - ⚡ Fun fact: I love coffee and Kacchi Briyani.
