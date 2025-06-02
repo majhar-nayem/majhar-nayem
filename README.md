@@ -7,7 +7,7 @@
 
 ## I'm a Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
 
-- 🔭 I’m currently working as a Backend Developer(PHP, Nodejs, Laravel, express, MySQL, MongoDB).
+- 🔭 I’m currently working as a Sr. Software Engineer in Fintech (Python, PHP, Nodejs, Laravel, Express, Nest, MySQL, MongoDB, and AWS).
 - ⚡ Fun fact: I love coffee and Kacchi Briyani.
 
 ### Connect with me:
