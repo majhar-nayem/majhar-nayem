@@ -1,5 +1,5 @@
 ### Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
-<b> Achieved a BS in Computer Science and Engineering degree </b>
+<b> BS in Computer Science and Engineering </b>
 
 <br>
 
