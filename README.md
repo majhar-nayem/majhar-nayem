@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/majhar-nayem">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7AA2FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Majhar+%F0%9F%91%8B;Senior+Software+Engineer+%C2%B7+Backend+%26+FinTech;5%2B+years+shipping+Node.js+%2B+TypeScript+%E2%9A%99%EF%B8%8F;Currently+breaking+%26+fixing+production+payment+systems;Heading+to+Adelaide+for+MAIML+%F0%9F%A6%98" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7AA2FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Majhar+%F0%9F%91%8B;Senior+Software+Engineer;I+build+the+software+behind+payments+%F0%9F%92%B3;5%2B+years+%C2%B7+real+products+%C2%B7+real+money;Off+to+Adelaide+for+a+Masters+in+AI+%F0%9F%A6%98" alt="typing" />
 </a>
 
 <p>
@@ -15,89 +15,38 @@
 
 ---
 
-```bash
-$ whoami
-> majharul-islam · senior-backend-engineer · adelaide.au
+### 👋 About me — the short version
 
-$ cat ~/about.txt
-> i build the boring, load-bearing parts of fintech.
-> regulator-grade payment rails. BNPL credit engines.
-> SaaS that quietly handles real money for 800+ brands.
+I'm a software engineer with five years of experience building the systems that move money — apps that let people pay, get paid, borrow, and run their businesses. Think the parts of a banking or shopping app you don't see, but absolutely feel when they break.
 
-$ ls ~/currently/
-  moby-money/         # Sr. SWE — BNPL platform · Malaysia
-  finance-saas/       # Consultant — multi-domain SaaS, 800+ brands
-  adelaide-uni/       # Master of AI & ML — incoming Aug 2026
-```
+Right now I'm a senior engineer on a **Buy Now, Pay Later** product in Malaysia, and I consult on a **business-finance platform** used by 800+ brands worldwide. In August 2026 I'm packing up and starting a **Master of AI & Machine Learning at Adelaide University** 🇦🇺.
 
 ---
 
-### What I'm shipping right now
+### 🛠️ What I'm best at, in plain English
 
-```ts
-const focus = {
-  building:    "scalable backend systems for regulated fintech",
-  obsessing:   ["idempotency", "audit trails", "boring reliability"],
-  learning:    ["distributed tracing", "applied ML on credit risk"],
-  philosophy:  "if the on-call engineer cries, the design failed",
-};
-```
+| | |
+|---|---|
+| 💳 **Payments that don't lose money** | Designing the rails that move funds reliably — even when the network drops, servers crash, or two requests arrive at once. |
+| 🤖 **Smart credit decisions** | Replacing slow, manual loan approvals with AI models that decide credit limits in seconds, fairly and explainably. |
+| 🏗️ **Systems that survive day one** | Building software that holds up when traffic suddenly multiplies — the difference between a launch and a meltdown. |
+| 🔐 **Bank-grade trust** | Audit trails, security controls, and the small details regulators (and customers) need to take you seriously. |
 
 ---
 
-### The stack I trust in production
+### ✨ Things I've shipped
 
-<div>
-
-![Node.js](https://img.shields.io/badge/-Node.js-14171c?style=flat-square&logo=node.js&logoColor=10B981)
-![NestJS](https://img.shields.io/badge/-NestJS-14171c?style=flat-square&logo=nestjs&logoColor=EC4899)
-![TypeScript](https://img.shields.io/badge/-TypeScript-14171c?style=flat-square&logo=typescript&logoColor=7AA2FF)
-![Express](https://img.shields.io/badge/-Express-14171c?style=flat-square&logo=express&logoColor=E6E8EC)
-![Laravel](https://img.shields.io/badge/-Laravel-14171c?style=flat-square&logo=laravel&logoColor=EC4899)
-![PHP](https://img.shields.io/badge/-PHP-14171c?style=flat-square&logo=php&logoColor=A78BFA)
-![React](https://img.shields.io/badge/-React-14171c?style=flat-square&logo=react&logoColor=22D3EE)
-![Next.js](https://img.shields.io/badge/-Next.js-14171c?style=flat-square&logo=next.js&logoColor=E6E8EC)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-14171c?style=flat-square&logo=postgresql&logoColor=7AA2FF)
-![MySQL](https://img.shields.io/badge/-MySQL-14171c?style=flat-square&logo=mysql&logoColor=22D3EE)
-![MongoDB](https://img.shields.io/badge/-MongoDB-14171c?style=flat-square&logo=mongodb&logoColor=10B981)
-![Redis](https://img.shields.io/badge/-Redis-14171c?style=flat-square&logo=redis&logoColor=EC4899)
-![Docker](https://img.shields.io/badge/-Docker-14171c?style=flat-square&logo=docker&logoColor=7AA2FF)
-![AWS](https://img.shields.io/badge/-AWS-14171c?style=flat-square&logo=amazonwebservices&logoColor=F59E0B)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-14171c?style=flat-square&logo=digitalocean&logoColor=7AA2FF)
-![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-14171c?style=flat-square&logo=githubactions&logoColor=A78BFA)
-
-</div>
+- 🏦 Built the first version of a **Central Bank–licensed payments product** in Bangladesh
+- 🤖 Designed the AI behind **automatic credit limit decisions** for a Buy Now, Pay Later app
+- 🚀 Helped a finance platform **onboard 800+ brands** worldwide
+- 🛒 Moved a major dropshipping store off Shopify onto custom software — **with zero downtime**
+- 🏆 That same platform won **Best B2B E-Commerce Website** at the South Asian Business Excellence Awards 2022
+- 📦 Powered a marketplace handling **200 million+ products**
+- 📄 Published **4 peer-reviewed AI research papers** with 110+ citations
 
 ---
 
-### Receipts
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**fintech / payments**
-- 🏦 Built MVP for a Central Bank–licensed PSO
-- 🤖 AI auto-limit + credit-decisioning engines for BNPL
-- 🔁 Idempotent scheduled jobs for repayments + late fees
-- 🧾 Double-entry ledger w/ immutable audit trail
-
-</td>
-<td valign="top" width="50%">
-
-**SaaS / scale**
-- 🚀 Finance SaaS — onboarded 800+ brands worldwide
-- 🛒 Replatformed Wholesalecart off Shopify (zero downtime)
-- 📦 200M+ SKU catalogue at Onesalemart
-- 🏆 SABE 2022 — Best B2B E-Commerce Website
-
-</td>
-</tr>
-</table>
-
----
-
-### Not-quite-vital signs
+### 📊 The GitHub bits
 
 <div align="center">
 
@@ -114,31 +63,29 @@ const focus = {
 
 ---
 
-### Fun-fact dropdown
+### 🌶️ The non-work bits
 
 <details>
-<summary><b>☕ click to brew</b></summary>
+<summary><b>☕ tap for the human stuff</b></summary>
 
-```yaml
-home-brew:       black coffee · no sugar · before the first commit
-cafe-order:      cappuccino · the deciding factor for every co-working spot
-weekend-fuel:
-  - smoky BBQ — low and slow, rub before sauce
-  - a properly rested medium-rare steak
-  - a slice of cheesecake (debugging-grade comfort food)
-soul-food:       kacchi biryani 🍛 — the one Adelaide can't quite replicate (yet)
-loudest-debate:  tea vs. coffee — refuses to pick (drinks both, depends on the bug)
-hot-take:        boring tech > shiny tech, every time
-hidden-skill:    can read SQL EXPLAIN plans like tea leaves
-side-quest:      4 IEEE papers · ensemble ML & predictive modelling
-```
+<br>
+
+- ☕ **Mornings:** strong black coffee, no sugar, before the first email gets answered.
+- 🍶 **Afternoons:** a cappuccino at a good cafe — it's how I rate every new neighbourhood.
+- 🍖 **Weekends:** smoky BBQ low-and-slow, a properly rested medium-rare steak, and a slice of cheesecake whenever the week's been rough.
+- 🍛 **Soul food:** kacchi biryani — the one thing I'll be hunting down in Adelaide.
+- 🫖 **Settled debate:** tea or coffee? Both. Depends on the day.
+- 💡 **Take I'll defend:** the unflashy choice usually wins.
+- 🎓 **Side quest:** four published AI research papers from before this whole "ship to production" chapter started.
 
 </details>
 
 <details>
 <summary><b>🦘 why Adelaide?</b></summary>
 
-Joining **Adelaide University** for a **Master of AI & Machine Learning** in Aug 2026 — putting four IEEE-indexed papers and five years of production engineering through a proper academic lens. Bonus: the coffee is genuinely excellent.
+<br>
+
+Starting a **Master of AI & Machine Learning at Adelaide University** in August 2026 — to bring my research background and five years of building real products together, and learn how the latest AI work actually gets applied. Also: the coffee scene is shockingly good.
 
 </details>
 
@@ -146,8 +93,8 @@ Joining **Adelaide University** for a **Master of AI & Machine Learning** in Aug
 
 <div align="center">
 
-🧊 cold-brewed in Adelaide · 🛠️ shipping since 2019 · 📬 [say hi](mailto:majharul.nayem042@gmail.com)
+🛠️ shipping software since 2019 · 📬 [say hi](mailto:majharul.nayem042@gmail.com)
 
-<sub><i>if you read this far, you owe me a coffee ☕</i></sub>
+<sub><i>if you read this far, you've earned a coffee ☕ — let me know if you're ever in Adelaide.</i></sub>
 
 </div>
