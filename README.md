@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/majhar-nayem">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7AA2FF&center=true&vCenter=true&width=720&lines=hi+%F0%9F%91%8B+I'm+Majharul+(Nayem);Senior+Software+Engineer+%C2%B7+Backend+%26+FinTech;5%2B+years+shipping+Node.js+%2B+TypeScript+%E2%9A%99%EF%B8%8F;Currently+breaking+%26+fixing+production+payment+systems;Heading+to+Adelaide+for+MAIML+%F0%9F%A6%98" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7AA2FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Majhar+%F0%9F%91%8B;Senior+Software+Engineer+%C2%B7+Backend+%26+FinTech;5%2B+years+shipping+Node.js+%2B+TypeScript+%E2%9A%99%EF%B8%8F;Currently+breaking+%26+fixing+production+payment+systems;Heading+to+Adelaide+for+MAIML+%F0%9F%A6%98" alt="typing" />
 </a>
 
 <p>
