@@ -26,7 +26,7 @@ $ cat ~/about.txt
 
 $ ls ~/currently/
   moby-money/         # Sr. SWE — BNPL platform · Malaysia
-  vezmo/              # Consultant — finance SaaS, 800+ brands
+  finance-saas/       # Consultant — multi-domain SaaS, 800+ brands
   adelaide-uni/       # Master of AI & ML — incoming Aug 2026
 ```
 
@@ -86,7 +86,7 @@ const focus = {
 <td valign="top" width="50%">
 
 **SaaS / scale**
-- 🚀 Vezmo — onboarded 800+ brands worldwide
+- 🚀 Finance SaaS — onboarded 800+ brands worldwide
 - 🛒 Replatformed Wholesalecart off Shopify (zero downtime)
 - 📦 200M+ SKU catalogue at Onesalemart
 - 🏆 SABE 2022 — Best B2B E-Commerce Website
