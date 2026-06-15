@@ -50,8 +50,8 @@ Right now I'm a senior engineer on a **Buy Now, Pay Later** product in Malaysia,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=majhar-nayem&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=43200" alt="Majhar's GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=majhar-nayem&theme=tokyonight&hide_border=true" alt="Majhar's GitHub streak" />
 
 </div>
 
