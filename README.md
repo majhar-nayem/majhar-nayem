@@ -1,63 +1,153 @@
-### Hi there, I'm Majharul Islam. Nick Name: Nayem 👋
-<b> BS in Computer Science and Engineering </b>
+<div align="center">
 
-<br>
+<a href="https://github.com/majhar-nayem">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=7AA2FF&center=true&vCenter=true&width=720&lines=hi+%F0%9F%91%8B+I'm+Majharul+(Nayem);Senior+Software+Engineer+%C2%B7+Backend+%26+FinTech;5%2B+years+shipping+Node.js+%2B+TypeScript+%E2%9A%99%EF%B8%8F;Currently+breaking+%26+fixing+production+payment+systems;Heading+to+Adelaide+for+MAIML+%F0%9F%A6%98" alt="typing" />
+</a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/majharul_nayem?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmajhar-nayem&screen_name=majharul_nayem)
+<p>
+  <img src="https://img.shields.io/badge/-Adelaide,%20AU-0b0d10?style=for-the-badge&logo=googlemaps&logoColor=7AA2FF&labelColor=14171c" />
+  <img src="https://img.shields.io/badge/-Open%20to%20Senior%20Roles-0b0d10?style=for-the-badge&logo=hyperledger&logoColor=10B981&labelColor=14171c" />
+  <a href="https://linkedin.com/in/majharul-islam"><img src="https://img.shields.io/badge/-LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=7AA2FF&labelColor=14171c" /></a>
+  <a href="https://scholar.google.com/citations?user=f3C6IbkAAAAJ"><img src="https://img.shields.io/badge/-Scholar-0b0d10?style=for-the-badge&logo=googlescholar&logoColor=EC4899&labelColor=14171c" /></a>
+</p>
 
-## I'm a Developer, and Machine Learning(ML) and Deep Learning(DL) enthusiastic!
-
-- 🔭 I’m currently working as a Sr. Software Engineer in Fintech (Python, PHP, Nodejs, Laravel, Express, Nest, MySQL, MongoDB, and AWS).
-- ⚡ Fun fact: I love coffee and BBQ.
-
-### Connect with me:
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/PhpStorm_Logo.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="DigitalOcean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" />
-<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
-<img align="left" alt="Trello" width="26px" src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" />
-<img align="left" alt="Slack" width="26px" src="https://www.sketchappsources.com/resources/source-image/new-slack-logo-nicolas-ciotti.jpg" />
-
-<br />
-<br />
+</div>
 
 ---
 
-<!-- <!-- <details> -->
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-<!-- </details> --> 
+```bash
+$ whoami
+> majharul-islam · senior-backend-engineer · adelaide.au
 
-### Github stats:
+$ cat ~/about.txt
+> i build the boring, load-bearing parts of fintech.
+> regulator-grade payment rails. BNPL credit engines.
+> SaaS that quietly handles real money for 800+ brands.
 
-  <img align="left" alt="majhar-nayem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&&show_icons=true&hide_border=true&count_private=true?theme=vue&show_stars=true" />
+$ ls ~/currently/
+  moby-money/         # Sr. SWE — BNPL platform · Malaysia
+  vezmo/              # Consultant — finance SaaS, 800+ brands
+  adelaide-uni/       # Master of AI & ML — incoming Aug 2026
+```
 
+---
 
+### What I'm shipping right now
 
+```ts
+const focus = {
+  building:    "scalable backend systems for regulated fintech",
+  obsessing:   ["idempotency", "audit trails", "boring reliability"],
+  learning:    ["distributed tracing", "applied ML on credit risk"],
+  philosophy:  "if the on-call engineer cries, the design failed",
+};
+```
 
-<!-- [website]: https://codeSTACKr.com -->
-[twitter]: https://twitter.com/majharul_nayem
-[facebook]: https://facebook.com/majharul.nayem
-[linkedin]: https://linkedin.com/in/majharul-islam
+---
+
+### The stack I trust in production
+
+<div>
+
+![Node.js](https://img.shields.io/badge/-Node.js-14171c?style=flat-square&logo=node.js&logoColor=10B981)
+![NestJS](https://img.shields.io/badge/-NestJS-14171c?style=flat-square&logo=nestjs&logoColor=EC4899)
+![TypeScript](https://img.shields.io/badge/-TypeScript-14171c?style=flat-square&logo=typescript&logoColor=7AA2FF)
+![Express](https://img.shields.io/badge/-Express-14171c?style=flat-square&logo=express&logoColor=E6E8EC)
+![Laravel](https://img.shields.io/badge/-Laravel-14171c?style=flat-square&logo=laravel&logoColor=EC4899)
+![PHP](https://img.shields.io/badge/-PHP-14171c?style=flat-square&logo=php&logoColor=A78BFA)
+![React](https://img.shields.io/badge/-React-14171c?style=flat-square&logo=react&logoColor=22D3EE)
+![Next.js](https://img.shields.io/badge/-Next.js-14171c?style=flat-square&logo=next.js&logoColor=E6E8EC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-14171c?style=flat-square&logo=postgresql&logoColor=7AA2FF)
+![MySQL](https://img.shields.io/badge/-MySQL-14171c?style=flat-square&logo=mysql&logoColor=22D3EE)
+![MongoDB](https://img.shields.io/badge/-MongoDB-14171c?style=flat-square&logo=mongodb&logoColor=10B981)
+![Redis](https://img.shields.io/badge/-Redis-14171c?style=flat-square&logo=redis&logoColor=EC4899)
+![Docker](https://img.shields.io/badge/-Docker-14171c?style=flat-square&logo=docker&logoColor=7AA2FF)
+![AWS](https://img.shields.io/badge/-AWS-14171c?style=flat-square&logo=amazonwebservices&logoColor=F59E0B)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-14171c?style=flat-square&logo=digitalocean&logoColor=7AA2FF)
+![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-14171c?style=flat-square&logo=githubactions&logoColor=A78BFA)
+
+</div>
+
+---
+
+### Receipts
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**fintech / payments**
+- 🏦 Built MVP for a Central Bank–licensed PSO
+- 🤖 AI auto-limit + credit-decisioning engines for BNPL
+- 🔁 Idempotent scheduled jobs for repayments + late fees
+- 🧾 Double-entry ledger w/ immutable audit trail
+
+</td>
+<td valign="top" width="50%">
+
+**SaaS / scale**
+- 🚀 Vezmo — onboarded 800+ brands worldwide
+- 🛒 Replatformed Wholesalecart off Shopify (zero downtime)
+- 📦 200M+ SKU catalogue at Onesalemart
+- 🏆 SABE 2022 — Best B2B E-Commerce Website
+
+</td>
+</tr>
+</table>
+
+---
+
+### Not-quite-vital signs
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=majhar-nayem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=majhar-nayem&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=majhar-nayem&bg_color=0b0d10&color=7AA2FF&line=A78BFA&point=EC4899&hide_border=true&area=true&radius=8" width="98%" />
+
+</div>
+
+---
+
+### Fun-fact dropdown
+
+<details>
+<summary><b>☕ click to brew</b></summary>
+
+```yaml
+home-brew:       black coffee · no sugar · before the first commit
+cafe-order:      cappuccino · the deciding factor for every co-working spot
+weekend-fuel:
+  - smoky BBQ — low and slow, rub before sauce
+  - a properly rested medium-rare steak
+  - a slice of cheesecake (debugging-grade comfort food)
+soul-food:       kacchi biryani 🍛 — the one Adelaide can't quite replicate (yet)
+loudest-debate:  tea vs. coffee — refuses to pick (drinks both, depends on the bug)
+hot-take:        boring tech > shiny tech, every time
+hidden-skill:    can read SQL EXPLAIN plans like tea leaves
+side-quest:      4 IEEE papers · ensemble ML & predictive modelling
+```
+
+</details>
+
+<details>
+<summary><b>🦘 why Adelaide?</b></summary>
+
+Joining **Adelaide University** for a **Master of AI & Machine Learning** in Aug 2026 — putting four IEEE-indexed papers and five years of production engineering through a proper academic lens. Bonus: the coffee is genuinely excellent.
+
+</details>
+
+---
+
+<div align="center">
+
+🧊 cold-brewed in Adelaide · 🛠️ shipping since 2019 · 📬 [say hi](mailto:majharul.nayem042@gmail.com)
+
+<sub><i>if you read this far, you owe me a coffee ☕</i></sub>
+
+</div>
