@@ -19,7 +19,7 @@
 
 I'm a software engineer with five years of experience building the systems that move money — apps that let people pay, get paid, borrow, and run their businesses. Think the parts of a banking or shopping app you don't see, but absolutely feel when they break.
 
-Right now I'm a senior engineer on a **Buy Now, Pay Later** product in Malaysia, and I consult on a **business-finance platform** used by 800+ brands worldwide. In August 2026 I'm packing up and starting a **Master of AI & Machine Learning at Adelaide University** 🇦🇺.
+Right now I consult on a **business-finance platform** used by 800+ brands worldwide. In August 2026 I'm packing up and starting a **Master of AI & Machine Learning at Adelaide University** 🇦🇺.
 
 ---
 
